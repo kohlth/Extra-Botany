@@ -316,7 +316,7 @@ botania.page.deathring1=Do not fear power... fear those who wield it!
 botania.tagline.deathring=The eternal hunt has begun.
 
 botania.entry.hammer=Hammer
-botania.page.hammer0=Hammers are used for forging on Livingrock Pedestals. They can also be used as pickaxes. Hammers can use &4Mana&0 instead of durability.
+botania.page.hammer0=Hammers are used for forging on Livingrock Pedestals. They can also be used as pickaxes and can use &4Mana&0 instead of durability.
 botania.page.hammer1=Encountered in my dream.
 botania.page.hammer2=That would be very nice.
 botania.page.hammer3=I am not afraid of anything anymore.
@@ -348,13 +348,13 @@ botania.page.camera1=Snapshot
 botania.tagline.camera=Say "cheese"!
 
 botania.entry.gaia3=Ritual of Gaia III
-botania.page.gaia30=The Nature Orb stores concentrated Natural Breath. 100,000 of it can be used to summon an even more powerful Gaia Guardian. Its great powers and new abilties should be feared.
+botania.page.gaia30=100,000 Natural breath from a Nature Orb can be used to summon an even more powerful Gaia Guardian. Its great powers and new abilties should be feared.
 botania.page.gaia31=For the Gaia Guardian III fight, you need to learn some new rules. 1. Blocks in the Gaia Guardian arena have to belong to Vanilla Minecraft or Botania. Any other blocks will be destroyed! (except if its changed in the config) 2. Equipped armor and weapons have to be from Vanilla Minecraft or Botania (except if its changed in the config). Any others will be disarmed and dropped on the ground. During the fight red landmines should be avoided as they will deal massive damage to you.
 botania.page.gaia32=Natural Selection.
 botania.tagline.gaia3=It's HARDCORE
 
 botania.entry.gaia4=Ritual of Gaia IV
-botania.page.gaia40=The Nature Orb stores concentrated Natural Breath. 100,000 of it can be used to summon an even more powerful Gaia Guardian. Its great powers and new abilties should be feared.
+botania.page.gaia40=100,000 Natural breath from a Nature Orb can be used to summon an even more powerful Gaia Guardian. Its great powers and new abilties should be feared.
 botania.page.gaia41=For the Gaia Guardian IV fight, you need to learn some new rules. 1. Blocks in the Gaia Guardian arena have to belong to Vanilla Minecraft or Botania. Any other blocks will be destroyed! (except if its changed in the config) 2. Equipped armor and weapons have to be from Vanilla Minecraft or Botania (except if its changed in the config). Any others will be disarmed and dropped on the ground. During the fight red landmines should be avoided as they will deal massive damage to you.
 botania.page.gaia42=Natural Selection.
 botania.tagline.gaia4=It's HARDCORE
@@ -365,7 +365,7 @@ botania.page.relicshield1=I will stop humans
 botania.tagline.relicshield=AT Field
 
 botania.entry.mastermanaring=Master Band of Mana
-botania.page.mastermanaring0=The &4Master Band of Mana&0 can store nearly infinite amounts of &4Mana&0.
+botania.page.mastermanaring0=The &4Master Band of Mana&0 can store a nearly infinite amount of &4Mana&0.
 botania.page.mastermanaring1=The Cake is a Lie.
 botania.tagline.mastermanaring=IMPOSSIBLE
 
@@ -384,7 +384,7 @@ botania.page.combatmaid4=Pleiades Combat Maid Boots
 botania.tagline.combatmaid=Overlord
 
 botania.entry.cosmeticmaid=Starry Idol
-botania.page.cosmeticmaid0=The improved version of Manasteel Armor, gives the wearer a high mana discount.
+botania.page.cosmeticmaid0=A improved version of Manasteel Armor,it gives the wearer a high mana discount.
 botania.page.cosmeticmaid1=Starry Idol Headgear
 botania.page.cosmeticmaid2=Starry Idol Suit
 botania.page.cosmeticmaid3=Starry Idol Skirt
@@ -407,7 +407,7 @@ botania.page.manaliquefaction1=Non-Science
 botania.tagline.manaliquefaction=Liquid Mana
 
 botania.entry.cocktail=Special-made Cocktail
-botania.page.cocktail0=By crafting a botania flask/vial with a Mana Cocktail , you can drink two more times than normal and have a longer effect. <br>Aditionaly very special potions have been added and can be crafted into Cocktails too.
+botania.page.cocktail0=By crafting any flask/vial potion with a Mana Cocktail , you can make a Special-made Cocktail that can be drinked two more times than the original flask/vial and it has a longer effect. <br>Aditionaly very special potions have been added and can be crafted into Cocktails too.
 botania.page.cocktail1=Greatly improve the efficiency of mining, but overdraft your luck
 botania.page.cocktail2=
 botania.page.cocktail3=High level of resistance, but slow as turtle.
@@ -422,10 +422,10 @@ botania.tagline.cocktail=
 
 botania.entry.infinitewine=Infinite Wine
 botania.page.infinitewine0=Infinite Wine, that you can drink almost infinitly, it only costs mana to refill. To make one, you just need to combine a Special-made Cocktail with heroes medal.You can change the effects by crafting with other varieties of Special-made Cocktail. <br>Be carefull though, if you drink it all before it can refill, you will lose your relic and get a empty mana glass back, and you can only Restore 3 uses per minecraft day.
-botania.tagline.infinite wine=Baccano!
+botania.tagline.infinitewine=Baccano!
 
 botania.entry.splashgrenade=Holy Grenade
-botania.page.splashgrenade0= A Special-made Cocktail, crafted with Popped Chorus Fruit. The Holy Grenade will deal massive damage after exploding, giving bad effects to other creatures and giving the good effects to players. <br>A perfect item, but why is it a grenade?
+botania.page.splashgrenade0=When a Special-made Cocktail is crafted with Popped Chorus Fruit. You make a Holy Grenade! The Holy Grenade will deal massive damage after exploding, giving bad effects to other creatures and giving the good effects to players. <br>A perfect item, but why is it a grenade?
 botania.tagline.splashgrenade=Art is a explosion
 
 botania.entry.shadowwarrior=Shadow Warrior
@@ -440,17 +440,17 @@ botania.page.shadowwarrior7=Shadow Katana
 botania.tagline.shadowwarrior=Not A Vampire
 
 botania.entry.elfjar=Livingrock Barrel
-botania.page.elfjar0=A Livingrock Barrel can simply contain 16 buckets of liquid. It will supply water to the Altar next to it if it has any.
+botania.page.elfjar0=A Livingrock Barrel can simply contain 16 buckets of liquid. It will also supply water to the Altar next to it if it has any.
 botania.page.elfjar1=Minecraft is too easy.
 botania.tagline.elfjar=Simple
 
 botania.entry.supercrown=Super Crown
-botania.page.supercrown0=When you are equipping the Starry Idol Armor Set or the Pleiades Combat Maid Armor Set, the Super Crown will reduce every damage you take by 2.
+botania.page.supercrown0=When you are equipping the Starry Idol Armor Set or the Pleiades Combat Maid Armor Set, the Super Crown will reduce damage you take by 2.
 botania.page.supercrown1=You are not Toadette.
 botania.tagline.supercrown=Cat Mario
 
 botania.entry.puredaisypendant=Pure Daisy Pendant
-botania.page.puredaisypendant0=By holding a Pure Daisy Pendant and right-clicking a block, you can instanly transform blocks like a pure daisy, at the cost of a little mana. After 24 uses, it will cool down for 2.5min, and it only cools down when it is equipped.
+botania.page.puredaisypendant0=By holding a Pure Daisy Pendant and right-clicking a block, you can instanly transform blocks like a pure daisy, at the cost of a little mana. After 64 uses, it will cool down for 2.5min, and it only cools down when it is equipped.
 botania.page.puredaisypendant1=My beauty is in position.
 botania.tagline.puredaisypendant=Now You See Me, Now You Don't
 
